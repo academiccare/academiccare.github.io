@@ -1,5 +1,5 @@
 /* অ্যাপের খোলস ফোনে রেখে দেয়, যাতে দ্রুত খোলে। ডাটা সবসময় অনলাইন থেকে আসে। */
-const CACHE = 'ac-shell-v2';
+const CACHE = 'ac-shell-v3';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png'];
 
 self.addEventListener('install', e => {
